@@ -13,6 +13,9 @@ const Rafaelespinoza10 = {
         mobileApp: {
             framework: ["Flutter"]
         },
+        webDevelopment:{
+           tools: ["css", "HTML", "JavaScript"]
+        },
         databases: ["MySql"],
         misc: ["Matlibplot", "Octave", "ArduinoIDE", "open-cv", "LabView", "SolidWorks"]
     },
