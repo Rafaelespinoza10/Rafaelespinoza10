@@ -14,9 +14,10 @@ const Rafaelespinoza10 = {
             framework: ["Flutter"]
         },
         webDevelopment:{
-           tools: ["css", "HTML", "JavaScript"]
+           tools: ['CSS3', 'HTML5', 'JavaScript','Tailwind' ]
+           frameWorks: ['React', 'Node.js']
         },
-        databases: ["MySql"],
+        databases: ['MySQL' , 'MongoDB'],
         misc: ["Matlibplot", "Octave", "ArduinoIDE", "open-cv", "LabView", "SolidWorks"]
     },
       funFact: "There are only 10 types of people in the world: those who understand binary and those who don't."
