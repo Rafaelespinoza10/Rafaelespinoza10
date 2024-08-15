@@ -11,16 +11,16 @@ const Rafaelespinoza10 = {
     askMeAbout: ["web dev", "embedded systems", "robotics" "app dev", "data science", "microcontroller", "machine learning", "artificial intelligence", "Internet of Things (IoT)" ],
     technologies: {
         mobileApp: {
-            framework: ["Flutter"]
+            framework: ["Flutter"],
         },
         webDevelopment:{
-           tools: ['CSS3', 'HTML5', 'JavaScript','Tailwind' ]
+           tools: ['CSS3', 'HTML5', 'JavaScript','Tailwind' ],
            frameWorks: ['React', 'Node.js']
         },
         databases: ['MySQL' , 'MongoDB'],
-        misc: ["Matlibplot", "Octave", "ArduinoIDE", "open-cv", "LabView", "SolidWorks"]
+        misc: ["Matlibplot", "Octave", "ArduinoIDE", "open-cv", "LabView", "SolidWorks"],
     },
-      funFact: "There are only 10 types of people in the world: those who understand binary and those who don't."
+      funFact: "There are only 10 types of people in the world: those who understand binary and those who don't.",
       currentFocus: "Learning front-end web development frameworks",
 };
 ```
