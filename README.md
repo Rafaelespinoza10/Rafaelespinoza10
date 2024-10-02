@@ -15,7 +15,7 @@ const Rafaelespinoza10 = {
         },
         webDevelopment:{
            tools: ['CSS3', 'HTML5', 'JavaScript','TailwindCSS', 'Bootstrap ],
-           frameWorks: ['React', 'Node.js', 'Angular]
+           frameWorks: ['React', 'Node.js', 'Angular']
         },
         databases: ['MySQL' , 'MongoDB'],
         misc: ["Matlibplot", "Octave", "ArduinoIDE", "open-cv", "LabView", "SolidWorks"],
