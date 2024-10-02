@@ -14,7 +14,7 @@ const Rafaelespinoza10 = {
             framework: ["Flutter"],
         },
         webDevelopment:{
-           tools: ['CSS3', 'HTML5', 'JavaScript','TailwindCSS', 'Bootstrap ],
+           tools: ['CSS3', 'HTML5', 'JavaScript','TailwindCSS', 'Bootstrap' ],
            frameWorks: ['React', 'Node.js', 'Angular']
         },
         databases: ['MySQL' , 'MongoDB'],
