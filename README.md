@@ -45,8 +45,13 @@ const Rafaelespinoza10 = {
 <a href="https://la.mathworks.com/products/matlab.html" target="_blank"> <img src="https://jartigag.blog/assets/images/posts/git.png" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.typescriptlang.org" target="_blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/800px-Typescript_logo_2020.svg.png" align="left" alt="typescript" height='42px'/></a>
 
+<!-- ...último icono de Tools -->
+<br clear="both" />
+<br />
 
-###  🌎 My social networks
+---
+
+### 🌎 My social networks
 
 <!-- Social icons section -->
 <p align="center">
@@ -55,6 +60,7 @@ const Rafaelespinoza10 = {
   <a href="https://www.instagram.com/rafael_moreno01/"><img width="50px" alt="Instagram" title="Instagram" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.facebook.com/rafita.espino.3?locale=es_LA" alt="Facebook" title="Facebook"><img width="50px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-256.png"/></a>
+ <a href="https://rafaelespinoza10.github.io/Portafolio/section/home" alt="MyPage" title="MyPage"><img width="50px" src="https://icons.veryicon.com/png/o/miscellaneous/base-icon-library-1/internet-54.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
