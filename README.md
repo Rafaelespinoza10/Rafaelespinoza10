@@ -45,7 +45,7 @@ const Rafaelespinoza10 = {
 <a href="https://www.ni.com/es/shop/labview.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/national-instruments-labview.svg" align="left" alt="git" height='42px'/> </a>
 
 <a href="https://la.mathworks.com/products/matlab.html" target="_blank"> <img src="https://jartigag.blog/assets/images/posts/git.png" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.typescriptlang.org" target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/800px-Typescript_logo_2020.svg.png" align="left" alt="typescript" height='42px'></a>
+<a href="https://www.typescriptlang.org" target="_blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/800px-Typescript_logo_2020.svg.png" align="left" alt="typescript" height='42px'/></a>
 
 <hr style="border-top: 3px solid #ccc; margin-bottom: 20px;">
 
