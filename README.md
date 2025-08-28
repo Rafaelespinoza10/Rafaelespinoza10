@@ -8,7 +8,7 @@
 ```javascript
 const Rafaelespinoza10 = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "embedded systems", "robotics" "app dev", "data science", "microcontroller", "machine learning", "artificial intelligence", "Internet of Things (IoT)" ],
+    askMeAbout: ["web dev", "mobile dev", "embedded systems", "robotics", "backend", "data science", "microcontroller", "machine learning" ],
     technologies: {
         mobileApp: {
             framework: ["Flutter"],
@@ -17,8 +17,8 @@ const Rafaelespinoza10 = {
            tools: ['CSS3', 'HTML5', 'JavaScript','TailwindCSS', 'Bootstrap' ],
            frameWorks: ['React', 'Node.js', 'Angular']
         },
-        databases: ['MySQL' , 'MongoDB'],
-        misc: ["Matlibplot", "Octave", "ArduinoIDE", "open-cv", "LabView", "SolidWorks"],
+        databases: ['MySQL' , 'MongoDB', 'PostgresSQL', 'MSSQL'],
+        misc: ["Matlibplot","Pandas", "sklearn", "Octave", "ArduinoIDE", "open-cv", "LabView", "aws"],
     },
       funFact: "There are only 10 types of people in the world: those who understand binary and those who don't.",
       currentFocus: "Learning front-end web development frameworks",
@@ -35,18 +35,16 @@ const Rafaelespinoza10 = {
 <a href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n" target="_blank"><img align="left" alt="C" height ="42px" src="https://www.ingenioempresa.com/wp-content/uploads/2022/09/C-Language.png"></a>
 <a href="https://firebase.google.com/" target="HTML5"> <img align="left" src="https://cdn.icon-icons.com/icons2/171/PNG/512/html5_23403.png" alt="firebase" height ="50px"/> </a>
 <a href="[https://firebase.google.com/](https://dart.dev/)" target="Dart"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="50px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="50px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://angular.dev" target="_blank"> <img align="left" alt="Angular" height ="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"></a>
-<a href="https://visualstudio.microsoft.com/es/" target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Arduino_Logo_Registered.svg/1200px-Arduino_Logo_Registered.svg.png" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.ni.com/es/shop/labview.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/national-instruments-labview.svg" align="left" alt="git" height='42px'/> </a>
 
 <a href="https://la.mathworks.com/products/matlab.html" target="_blank"> <img src="https://jartigag.blog/assets/images/posts/git.png" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.typescriptlang.org" target="_blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/800px-Typescript_logo_2020.svg.png" align="left" alt="typescript" height='42px'/></a>
 
-<hr style="border-top: 3px solid #ccc; margin-bottom: 20px;">
 
 ###  🌎 My social networks
 
