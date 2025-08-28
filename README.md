@@ -31,15 +31,14 @@ const Rafaelespinoza10 = {
 
 <a href="https://dotnet.microsoft.com/es-es/languages/csharp"> <img align="left" src="https://thinkotb.b-cdn.net/wp-content/uploads/2023/01/c-4.svg" alt="C#" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 <a href="https://learn.microsoft.com/es-es/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170" target="_blank"><img align="left" alt="C++" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"></a>
 <a href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n" target="_blank"><img align="left" alt="C" height ="42px" src="https://www.ingenioempresa.com/wp-content/uploads/2022/09/C-Language.png"></a>
-<a href="https://firebase.google.com/" target="HTML5"> <img align="left" src="https://cdn.icon-icons.com/icons2/171/PNG/512/html5_23403.png" alt="firebase" height ="42px"/> </a>
+<a href="https://firebase.google.com/" target="HTML5"> <img align="left" src="https://cdn.icon-icons.com/icons2/171/PNG/512/html5_23403.png" alt="firebase" height ="50px"/> </a>
 <a href="[https://firebase.google.com/](https://dart.dev/)" target="Dart"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="firebase" height ="42px"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://angular.dev" target="_blank"> <img align="left" alt="Angular" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="50px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://angular.dev" target="_blank"> <img align="left" alt="Angular" height ="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"></a>
 <a href="https://visualstudio.microsoft.com/es/" target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Arduino_Logo_Registered.svg/1200px-Arduino_Logo_Registered.svg.png" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.ni.com/es/shop/labview.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/national-instruments-labview.svg" align="left" alt="git" height='42px'/> </a>
