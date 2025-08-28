@@ -44,7 +44,7 @@ const Rafaelespinoza10 = {
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Arduino_Logo_Registered.svg/1200px-Arduino_Logo_Registered.svg.png" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.ni.com/es/shop/labview.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/national-instruments-labview.svg" align="left" alt="git" height='42px'/> </a>
 
-<a href="https://la.mathworks.com/products/matlab.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" align="left" alt="git" height='42px'/> </a>
+<a href="https://la.mathworks.com/products/matlab.html" target="_blank"> <img src="https://jartigag.blog/assets/images/posts/git.png" align="left" alt="git" height='42px'/> </a>
 
 <a href="https://flutter.dev/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png" align="left" alt="git" height='42px'/> </a>
 <br clear="left"/>
