@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-![MyImage](https://github.com/Rafaelespinoza10/Rafaelespinoza10/assets/141364183/d1850915-6284-444e-afa9-093d42f11468)
-
-
 ## 🥇 About me:
 
 ```javascript
