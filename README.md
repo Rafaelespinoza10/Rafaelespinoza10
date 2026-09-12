@@ -1,66 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Rafael Moreno 👋</h1>
 
-## 🥇 About me:
+<h3 align="center">
+  Software Engineer · Full-Stack Developer · AI & Automation
+</h3>
 
-```javascript
-const Rafaelespinoza10 = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "mobile dev", "embedded systems", "robotics", "backend", "data science", "microcontroller", "machine learning" ],
-    technologies: {
-        mobileApp: {
-            framework: ["Flutter"],
-        },
-        webDevelopment:{
-           tools: ['CSS3', 'HTML5', 'JavaScript','TailwindCSS', 'Bootstrap' ],
-           frameWorks: ['React', 'Node.js', 'Angular']
-        },
-        databases: ['MySQL' , 'MongoDB', 'PostgresSQL', 'MSSQL'],
-        misc: ["Matlibplot","Pandas", "sklearn", "Octave", "ArduinoIDE", "open-cv", "LabView", "aws"],
-    },
-      funFact: "There are only 10 types of people in the world: those who understand binary and those who don't.",
-      currentFocus: "Learning front-end web development frameworks",
-};
-```
-
-<hr style="border-top: 3px solid #ccc; margin-bottom: 20px;">
-
-### 🔨 Languages and Tools:
-
-<a href="https://dotnet.microsoft.com/es-es/languages/csharp"> <img align="left" src="https://thinkotb.b-cdn.net/wp-content/uploads/2023/01/c-4.svg" alt="C#" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://learn.microsoft.com/es-es/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170" target="_blank"><img align="left" alt="C++" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"></a>
-<a href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n" target="_blank"><img align="left" alt="C" height ="42px" src="https://www.ingenioempresa.com/wp-content/uploads/2022/09/C-Language.png"></a>
-<a href="https://firebase.google.com/" target="HTML5"> <img align="left" src="https://cdn.icon-icons.com/icons2/171/PNG/512/html5_23403.png" alt="firebase" height ="50px"/> </a>
-<a href="[https://firebase.google.com/](https://dart.dev/)" target="Dart"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="50px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="50px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://angular.dev" target="_blank"> <img align="left" alt="Angular" height ="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"></a>
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Arduino_Logo_Registered.svg/1200px-Arduino_Logo_Registered.svg.png" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.ni.com/es/shop/labview.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/national-instruments-labview.svg" align="left" alt="git" height='42px'/> </a>
-
-<a href="https://la.mathworks.com/products/matlab.html" target="_blank"> <img src="https://jartigag.blog/assets/images/posts/git.png" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.typescriptlang.org" target="_blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/800px-Typescript_logo_2020.svg.png" align="left" alt="typescript" height='42px'/></a>
-
-<!-- ...último icono de Tools -->
-<br clear="both" />
-<br />
-
----
-
-### 🌎 My social networks
-
-<!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/alejandro-rafael-moreno-espinoza10/"><img width="50px" alt="LinkedIn" title="LinkedIn" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/rafael_moreno01/"><img width="50px" alt="Instagram" title="Instagram" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/rafita.espino.3?locale=es_LA" alt="Facebook" title="Facebook"><img width="50px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-256.png"/></a>
- <a href="https://rafaelespinoza10.github.io/Portafolio/section/home" alt="MyPage" title="MyPage"><img width="50px" src="https://icons.veryicon.com/png/o/miscellaneous/base-icon-library-1/internet-54.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  Building software, automation tools and AI-powered products.
 </p>
 
 
+## 👨‍💻 About Me
 
+```javascript
+const rafael = {
+  role: "Software Engineer",
+  background: "Mechatronics Engineering",
+  interests: [ "Full-Stack Development", "AI Engineering", "Software Architecture", "Test Automation", "Developer Tools" ],
+  currentlyWorkingOn: [ "AI-powered automation", "Full-stack applications", "Testing infrastructure", "Developer productivity tools"],
+  stack: {
+    frontend: [ "React", "Angular", "TypeScript", "JavaScript", "HTML", "CSS", "TailwindCSS" ],
+    backend: [ "Node.js", "Express", ".NET", "Serverless Architecture",  "C#", "Python", "Typescript" ],
+    databases: [ "PostgreSQL", "Microsoft SQL Server", "MySQL", "InfluxDB", "MongoDB" ],
+    testingAndAutomation: [ "Mabl", "GitHub Actions", "API Testing", "E2E Testing" ],
+    tools: [ "Git", "GitHub", "Docker", "Postman", "AWS", "Railway"]
+  },
+  currentFocus: "Building AI-assisted software systems and becoming a Full-Stack AI Engineer",
+  funFact: "There are only 10 types of people in the world: those who understand binary and those who don't."
+};
+```
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,python" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /> <img height="48" src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" /> <img height="48" src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,aws" /> <img height="48" src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" /> <img height="48" src="https://img.shields.io/badge/Mabl-6C4CD5?style=for-the-badge" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=Rafaelespinoza10&theme=github-dark-blue&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+<div align="center">
+    
+[![Portfolio](https://img.shields.io/badge/rafaelespinozadev.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.rafaelespinozadev.com)
+[![LinkedIn](https://img.shields.io/badge/Alejandro%20Rafael%20Moreno-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-rafael-moreno-espinoza10/)
+
+</div>
