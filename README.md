@@ -21,8 +21,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Rafaelespinoza10&style=flat&color=22d3ee&label=profile+views" alt="profile views">
-
 </div>
 
 <br>
