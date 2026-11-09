@@ -1,0 +1,11 @@
+{
+  "_note": "Self-assessed levels (0-10) drawn in SKILL.MATRIX. Edit freely and rerun scripts/hud/generate.py.",
+  "skills": [
+    ["Full-Stack Web", 8],
+    ["Backend & APIs", 8],
+    ["Test Automation", 8],
+    ["AI Automation", 7],
+    ["Databases", 7],
+    ["Cloud & DevOps", 6]
+  ]
+}

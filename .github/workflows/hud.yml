@@ -1,0 +1,45 @@
+name: Refresh HUD cards
+
+on:
+  schedule:
+    - cron: "17 6 * * *" # daily, ~00:17 in San Luis Potosí
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/hud/**"
+      - ".github/workflows/hud.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hud
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate cards
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/hud/generate.py
+
+      - name: Commit if changed
+        run: |
+          git add assets/hud-*.svg
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(hud): refresh telemetry cards"
+          git push
